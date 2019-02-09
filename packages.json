@@ -1430,8 +1430,8 @@
   },
   "prelude": {
     "dependencies": [],
-    "repo": "https://github.com/purescript/purescript-prelude.git",
-    "version": "v4.1.0"
+    "repo": "https://github.com/andyarvanitis/purescript-prelude.git",
+    "version": "master"
   },
   "presto": {
     "dependencies": [
